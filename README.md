@@ -1,4 +1,4 @@
-# quarkus-react
+#  Quarkus and Patternfly-React
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
